@@ -1,0 +1,48 @@
+body{
+    background-image: url("personal01.png");
+}
+
+h1{
+    color:rgb(229, 61, 61);
+    font-size: 500%;
+    }
+
+    h2{
+        color:rgb(24, 186, 222);
+        font-size: 350%;
+        
+        }
+        div.b {
+            text-align: left;
+          }
+          div.p {
+            text-align: center;
+          } 
+          h3{
+            position: absolute;
+            left: 500px;
+            font-size: 300%;
+            top: 110px;
+        }
+        h4 {
+            position: absolute;
+            left: 1600px;
+            font-size: 300%;
+            top: 95px;
+        }
+
+        img:hover {
+            opacity: 0.5;
+          }
+          h2:hover {
+            color:rgb(229, 61, 61) ;
+          }
+          h2:active {
+            color: rgb(0, 187, 255);
+          }
+          h3:hover {
+            color: rgb(255, 0, 0);
+          }
+          h4:hover {
+            color: rgb(255, 0, 0);
+          }
